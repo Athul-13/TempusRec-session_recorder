@@ -21,7 +21,7 @@ app.use(
     cors({
         origin: [
             process.env.FRONTEND_URL, 
-            'chrome-extension://nlpikdenpfjfhaaabcchphliiojmmghn'
+            'chrome-extension://ibjljlkkjfffeejphhhoohgbegfjcfpi'
         ],
         credentials: true,
     })
